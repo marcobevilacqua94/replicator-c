@@ -1,0 +1,7 @@
+﻿  FileName.c
+C:\Users\Marco Bevilacqua\source\repos\replication\FileName.c(47,17): warning C4098: 'create_document': 'void' function returning a value
+C:\Users\Marco Bevilacqua\source\repos\replication\FileName.c(60,17): warning C4098: 'create_document': 'void' function returning a value
+C:\Users\Marco Bevilacqua\source\repos\replication\FileName.c(67,17): warning C4098: 'create_document': 'void' function returning a value
+C:\Users\Marco Bevilacqua\source\repos\replication\FileName.c(120,17): warning C4098: 'start_replication': 'void' function returning a value
+C:\Users\Marco Bevilacqua\source\repos\replication\FileName.c(148,17): warning C4098: 'start_replication': 'void' function returning a value
+  replication.vcxproj -> C:\Users\Marco Bevilacqua\source\repos\replication\x64\Debug\replication.exe
